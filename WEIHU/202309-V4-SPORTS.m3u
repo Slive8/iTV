@@ -87,7 +87,7 @@ http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226302/1/ind
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/CCTV/CCTV17.png" group-title="央视",CCTV农业
 http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://github.com/xiangjing7436/iTV/blob/main/tvicon/CCTV/CCTV16-4K.png" group-title="央视",CCTV奥运4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/CCTV/CCTV16-4K.png" group-title="央视",CCTV奥运4K
 http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/CCTV/CCTV4K.png" group-title="央视",CCTV4K
