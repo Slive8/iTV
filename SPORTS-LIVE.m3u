@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/tv-test.png" group-title="测试",IPTV维护
+https://vodm2lzexwq.vod.126.net/vodm2lzexwq/Uml2A2zV_8607925899_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607925899_1&authSign=5235e7361d6baf9c40027b47c02aab9f16ea2692&authTime=1696185945
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SPORTS/YC.png" group-title="英超",LIVE01
+https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=f442c845673d4c51a4af1ac29bcf840540c76844&authTime=1696185979
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SPORTS/YC.png" group-title="英超",LIVE02
+https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=f442c845673d4c51a4af1ac29bcf840540c76844&authTime=1696185979
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SPORTS/YC.png" group-title="英超",LIVE03
+https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=f442c845673d4c51a4af1ac29bcf840540c76844&authTime=1696185979
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SPORTS/YC.png" group-title="英超",LIVE04
+https://vodm2lzexwq.vod.126.net/vodm2lzexwq/a1yrR1W7_8607710566_sd.mp4?resId=254486990bfa2cd7aa860229db639341_8607710566_1&authSign=f442c845673d4c51a4af1ac29bcf840540c76844&authTime=1696185979
+
+
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV16.png" group-title="亚运会",CCTV奥运4K
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV4K.png" group-title="亚运会",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="亚运会",咪咕4K测试线路
+http://120.196.232.124:8088/PLTV/13/224/3221227945/1.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="咪咕体育",咪咕测试线路1
+http://111.40.196.27:443/0000000000001000/3000000010000005837/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000005837
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="咪咕体育",咪咕测试线路2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226966/1.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="咪咕体育",咪咕V6测试1
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230987/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="咪咕体育",咪咕V6测试2
+http://[2409:8087:7001:20:1000::82]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV5.png" group-title="体育频道",CCTV体育
+http://39.136.18.105/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV5P.png" group-title="体育频道",CCTV5+
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/FYZQ.png" group-title="体育频道",风云足球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/GEFWQ.png" group-title="体育频道",高尔夫网球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/YSTQ.png" group-title="体育频道",央视台球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-jbty.png" group-title="体育频道",劲爆体育
+http://111.40.196.27:443/0000000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉HD" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SH/XSJ.png" group-title="数字",新视觉HD
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls0
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-mlzq.png" group-title="数字",魅力足球
+http://111.40.196.27:443/0000000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-wxty.png" group-title="地方",五星体育
+http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
