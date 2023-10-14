@@ -27,6 +27,9 @@ https://pull-f5-spe.ixigua.com/live/YesLiveTV-93d53b1a-bb73-4ea0-be17-5c76f5b81e
 #EXTINF:-1 tvg-id="" tvg-name="VIU6" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/HK-VIU.png" group-title="香港",VIU6
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-29f8762c-0271-42b8-aa2f-9b6e28a34d1f/index.m3u8?by=yeslivetv.com
 
+#EXTINF:-1 tvg-id="" tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/OM-LH.png" group-title="澳门",莲花卫视
+http://107.151.203.111:2209/135/hk.php?id=amlh
+
 #EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SP-weilai.png" group-title="体育",纬来体育
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-2ca05717-2ed4-4953-a67b-94607ef99071/index.m3u8?by=yeslivetv.com
 
