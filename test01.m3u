@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-NBA.png" group-title="腾讯HighFPS",奇才VS黄蜂(8:00)
 https://txycdn.video.qq.com/1761069524.m3u8?time=1699491891&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIEfbFRMFpKgEFlRxled3xp-H9ESIz1DVuIlBI-7aXnHCECe-YFLw0k_q7SK53xYaweABUDrQOoox9DCVgK7YjqO6dOrr7kD_NzaMv-didS4tN1I6BjP_fpEOdjuS-kJW682cRJQdtIfDI_o-_bsIJ-EU3-z6C5wMFXn0BRvczicgYPf5jVaKi1p1l-oOxNM-ctio6eaAK5-7SOgIpxyEoGr2diD58cGdWk4J2VkjJM8s_uL2u7NvtsYIOg0vT66JoV1FB90EesnLEWLTsSs31Oy9crKDk3BUjBN9k4_zOQSpgsjEgeuPZ1sDOA93BEWMKB8_M-7pdtWMn80DJCLHn-izD82VBpkUVmYiMUvS9iARhr0CXwHzW-0Rd1jnQYPEro1CgnHRgHF831s_GBmeimRyyR7axYEvYmFNkmC8Y-ix7v0y86hrxC4tO2Rqe_lpjRLvaHMRUcCG9_wHDCUIdLhF64z_Wln9fHJBMD1teyUFF2K9NKRIbte-sHYQYo0d31Q0FA==&drmtype=0
 
@@ -33,3 +32,6 @@ https://txycdn.video.qq.com/1761070624.m3u8?time=1699491837&from=player&cdn=tclo
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-NBA.png" group-title="腾讯HighFPS",骑士VS雷霆(9:00)
 https://txycdn.video.qq.com/1761070724.m3u8?time=1699491860&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIOK2Zt_GsR1_ns7qsBOvKchrBi8fH3Kq-ApV-AIgxGBHEA8LuV2_CJ9GkxCMh66ykqYBUPHfqckZrdUWXe4m2IBH_FrOI271BpRigs5HxeYyyrdfHYrq8n8gAkbHkE_WsOgF3V18duUzHcbNGVVEO_FwMX6gRtnp-RBoCsDEdnF5eF_4dXItmu9VHmpl_DhoGu2djBZTT1DvW71KBuWhn8nwmKt53AKB0X9NVebw50g8bvvk60XWWI8qmmMip-xudJZmChbVOlf_jAqINSdulK34hh13gPm8HuLmvjH9c4MCTqWnQm6GBSTAkIp6hHQ7C29qricxIOk4nxv7G26TY-0SdsdnPnQAer6nL_RiE97bCJOGy751XSDQlZV5tSb3Kp_yfiny0xJC16ejhjb3EjugcyPSemBD4u_5oW43LUBEPGlA4GITBxm1i1PCJn3pWDpUHbc0R4BcXUEmrArhcG56tDvQreDtDl_RVXFPIcLb_wq3Jm4YFyVyLBW9FZx2BXfTuQ==&drmtype=0
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-NBA.png" group-title="腾讯HighFPS",猛龙VS独行侠(9:30)
+https://txycdn.video.qq.com/1761070824.m3u8?time=1699493477&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIN34pnW60wThstcdQqIOmuQjEfdsmf4G-Dwm-YXiNp7EELiAhsPA_UmxEELQd9I4_jgBUHYJrJIaRzwcDekVNlDxGfTy7-3Tmo98rp2Aro97LtIsi6NAxNn63HJINXNZ7ioO3Qb5qFsFrnT-9BHrfmg0coJ_mnSKDR0GHzsRQrCgMGcPxr5wU5nXnjCPXBr2OjjAOXuFZVy0ETlA5a1dObQ8ZZv8avnGiPp5ubQLHf0XWYUtqy-gFtMQDNk4qCpYSoF0sLQ53tG8RHO92k9Tq99Ctgadum9V25TN6C3aMP2xUMlp3jWfCesXTMjQbB6Pfyxc9ffVitgEK5XGUnfJrh9MZ8MyDgh8ZJs1PFcylQZRp6hlfnenG0sG-k4-C7RgrqEoY5g_jAAq5aEofeIzlfwKeFI0RHTnLIFdGsJe7DyZy2Q8LH0ojuWkLnQm_5U-iS3ihxSBO8NgEOxILAURGVOKsinzSEWlOKj1wIvaElP0AsKCAbp3QJbUXiwREojnPLpMMA==&drmtype=0
