@@ -1,0 +1,81 @@
+#EXTM3U logo- https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/tv-test.png" group-title="测试",IPTV维护
+http://129.226.149.79:5678/testvideo.php?id=testvideo1
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-01
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline01
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-02
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline02
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-03
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline03
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-04
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline04
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-05
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline05
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-06
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline06
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-01
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline01
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-02
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline02
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-03
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline03
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-04
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline04
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-05
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline05
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-06
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline06
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-07
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline07
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-08
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline08
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-09
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline09
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="咪咕NBA",咪咕NBA-10
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline10
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-01
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline01
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-02
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline02
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-03
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline03
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-04
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline04
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-05
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline05
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-06
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline06
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-07
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline07
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-08
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline08
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-09
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline09
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="腾讯NBA",腾讯NBA-10
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline10
+
+
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="咪咕体育",咪咕测试线路1
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="咪咕体育",咪咕测试线路2
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226966/1.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="咪咕体育",咪咕V6测试1
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230987/1.m3u8
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="咪咕体育",咪咕V6测试2
+http://[2409:8087:7001:20:1000::82]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
