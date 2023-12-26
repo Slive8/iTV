@@ -21,15 +21,4 @@ http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive09
 #EXTINF:-1 tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive10.png" group-title="Slive",Slive-10
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-01
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline01
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-02
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline02
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-03
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline03
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-04
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline04
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-05
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline05
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-06
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline06
+
