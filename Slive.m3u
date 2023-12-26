@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试",IPTV维护
 http://129.226.149.79:5678/testvideo.php?id=testvideo2
 #EXTINF:-1 tvg-id="10001" tvg-name="Slive-1" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive1.png" group-title="Slive",Slive-1
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive01
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive01
 #EXTINF:-1 tvg-id="10002" tvg-name="Slive-2" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive2.png" group-title="Slive",Slive-2
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive02
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive02
 #EXTINF:-1 tvg-id="10003" tvg-name="Slive-3" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive3.png" group-title="Slive",Slive-3
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive03
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive03
 #EXTINF:-1 tvg-id="10004" tvg-name="Slive-4" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive4.png" group-title="Slive",Slive-4
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive04
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive04
 #EXTINF:-1 tvg-id="10005" tvg-name="Slive-6" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive5.png" group-title="Slive",Slive-5
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive05
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive05
 #EXTINF:-1 tvg-id="10006" tvg-name="Slive-6" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive6.png" group-title="Slive",Slive-6
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive06
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive06
 #EXTINF:-1 tvg-id="10007" tvg-name="Slive-7" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive7.png" group-title="Slive",Slive-7
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive07
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive07
 #EXTINF:-1 tvg-id="10008" tvg-name="Slive-8" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive8.png" group-title="Slive",Slive-8
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive08
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive08
 #EXTINF:-1 tvg-id="10009" tvg-name="Slive-9" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive9.png" group-title="Slive",Slive-9
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive09
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive09
 #EXTINF:-1 tvg-id="10010" tvg-name="Slive-10" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive10.png" group-title="Slive",Slive-10
-http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive10
+http://129.226.149.79:5678/Freelive.php?access_token=test_LakerB911&id=Slive10
 
