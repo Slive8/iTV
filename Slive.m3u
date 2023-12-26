@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/tv-test.png" group-title="测试",IPTV维护
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试",IPTV维护
 http://129.226.149.79:5678/testvideo.php?id=testvideo2
-#EXTINF:-1 tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive1.png" group-title="Slive",Slive-1
+#EXTINF:-1 tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive1.png" group-title="Slive",Slive-1
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive01
-#EXTINF:-1 tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive2.png" group-title="Slive",Slive-2
+#EXTINF:-1 tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive2.png" group-title="Slive",Slive-2
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive02
-#EXTINF:-1 tvg-id="10003" tvg-name="NBA-3" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive3.png" group-title="Slive",Slive-3
+#EXTINF:-1 tvg-id="10003" tvg-name="NBA-3" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive3.png" group-title="Slive",Slive-3
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive03
-#EXTINF:-1 tvg-id="10004" tvg-name="NBA-4" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive4.png" group-title="Slive",Slive-4
+#EXTINF:-1 tvg-id="10004" tvg-name="NBA-4" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive4.png" group-title="Slive",Slive-4
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive04
-#EXTINF:-1 tvg-id="10005" tvg-name="NBA-6" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive5.png" group-title="Slive",Slive-5
+#EXTINF:-1 tvg-id="10005" tvg-name="NBA-6" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive5.png" group-title="Slive",Slive-5
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive05
-#EXTINF:-1 tvg-id="10026" tvg-name="NBA-6" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive6.png" group-title="Slive",Slive-6
+#EXTINF:-1 tvg-id="10026" tvg-name="NBA-6" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive6.png" group-title="Slive",Slive-6
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive06
-#EXTINF:-1 tvg-id="10027" tvg-name="NBA-7" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive7.png" group-title="Slive",Slive-7
+#EXTINF:-1 tvg-id="10027" tvg-name="NBA-7" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive7.png" group-title="Slive",Slive-7
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive07
-#EXTINF:-1 tvg-id="10028" tvg-name="NBA-8" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive8.png" group-title="Slive",Slive-8
+#EXTINF:-1 tvg-id="10028" tvg-name="NBA-8" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive8.png" group-title="Slive",Slive-8
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive08
-#EXTINF:-1 tvg-id="10029" tvg-name="NBA-9" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive9.png" group-title="Slive",Slive-9
+#EXTINF:-1 tvg-id="10029" tvg-name="NBA-9" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive9.png" group-title="Slive",Slive-9
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive09
-#EXTINF:-1 tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/Slive10.png" group-title="Slive",Slive-10
+#EXTINF:-1 tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/Slive10.png" group-title="Slive",Slive-10
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=Slive10
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-01
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-01
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline01
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-02
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline02
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-03
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-03
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline03
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-04
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-04
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline04
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-05
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline05
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/xiangjing7436/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-06
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/SliveYC.png" group-title="足球",足球线路-06
 http://129.226.149.79:5678/Freelive.php?access_token=test_QQ185773582SB&id=mfline06
