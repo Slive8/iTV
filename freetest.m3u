@@ -1,0 +1,74 @@
+#EXTM3U  https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/
+
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试频道",测试频道1
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch1
+
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试频道",测试频道2
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch2
+
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试频道",测试频道3
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch3
+
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试频道",测试频道4
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch4
+
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/tv-test.png" group-title="测试频道",测试频道5
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=testch5
+
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV1.png" group-title="V4线路",CCTV综合(IPV4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv01zh
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV2.png" group-title="V4线路",CCTV经济(IPV4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv02jj
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV3.png" group-title="V4线路",CCTV综艺(IPV4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv03zy
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV4.png" group-title="V4线路",CCTV国际(IPV4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv04zw
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV5P.png" group-title="V4线路",CCTV5+(IPV4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv05pl
+
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV13.png" group-title="移动线路",CCTV新闻(移动V4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv13xw
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV14.png" group-title="移动线路",CCTV少儿(移动V4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv14se
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV15.png" group-title="移动线路",CCTV音乐(移动V4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv15yy
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV16.png" group-title="移动线路",CCTV奥运(移动V4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv16ay
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV17.png" group-title="移动线路",CCTV农业(移动V4)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=cctv17ny
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CHC-GQDY.png" group-title="电信线路",,CHC高清电影（电信V4）
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcgqdy
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CHC-DZDY.png" group-title="电信线路",,CHC动作电影（电信V4）
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcdzdy
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CHC-JTYY.png" group-title="电信线路",,CHC家庭影院（电信V4）
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=chcjtyy
+
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/WS-BJ.png" group-title="V6线路",北京卫视(IPV6)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsbeijing
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/WS-AH.png" group-title="V6线路",安徽卫视(IPV6)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsanhui
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/WS-GD.png" group-title="V6线路",广东卫视(IPV6)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsguangdong
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/WS-SZ.png" group-title="V6线路",深圳卫视(IPV6)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsshenzhen
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/WS-LN.png" group-title="V6线路",辽宁卫视(IPV6)
+http://129.226.149.79:5678/V4free.php?access_token=test1208faku&id=wsliaoning
