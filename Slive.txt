@@ -1,4 +1,4 @@
-🌹测试,#genre#
+📡测试,#genre#
 测试频道1,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=testch1
 测试频道2,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=testch2
 测试频道3,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=testch3
