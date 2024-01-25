@@ -16,10 +16,10 @@ CCTV-14少儿(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=
 CCTV-15音乐(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=cctv15yy
 CCTV-16奥运(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=cctv16ay
 CCTV-17农业(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=cctv17ny
-CHC-高清电影(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcgqdy
-CHC-动作电影(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcdzdy
-CHC-家庭影院(移动V4),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcjtyy
 🔆IPV6,#genre#
+CHC-高清电影(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcgqdy
+CHC-动作电影(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcdzdy
+CHC-家庭影院(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=chcjtyy
 北京卫视(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=wsbeijing
 安徽卫视(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=wsanhui
 广东卫视(IPV6),http://129.226.149.79:4785/html/V4free.php?access_token=test1208faku&id=wsguangdong
