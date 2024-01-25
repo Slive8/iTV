@@ -28,7 +28,7 @@ http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=cctv03
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV4.png" group-title="V4线路",CCTV国际(IPV4)
 http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=cctv04zw
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV5P.png" group-title="V4线路",CCTV5+(IPV4)
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/Slive8/iTV/main/tvicon/CCTV5.png" group-title="V4线路",CCTV5体育(IPV4)
 http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=cctv05pl
 
 
