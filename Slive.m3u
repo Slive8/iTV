@@ -1,176 +1,169 @@
-#EXTM3U 
+ #EXTM3U 
 
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试频道",测试频道1
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch1
 
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试频道",测试频道2
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch2
 
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试频道",测试频道3
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch3
 
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试频道",测试频道4
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch4
 
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试频道",测试频道5
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=testch5
 
 
 #EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="体育直播",体育直播-1
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive01
 #EXTINF:-1 tvg-id="TY02" tvg-name="TY02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="体育直播",体育直播-2
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive02
 #EXTINF:-1 tvg-id="TY03" tvg-name="TY03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="体育直播",体育直播-3
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive03
 #EXTINF:-1 tvg-id="TY04" tvg-name="TY04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="体育直播",体育直播-4
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive04
 #EXTINF:-1 tvg-id="TY05" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="体育直播",体育直播-5
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive05
 #EXTINF:-1 tvg-id="TY06" tvg-name="TY06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="体育直播",体育直播-6
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive06
 #EXTINF:-1 tvg-id="TY07" tvg-name="TY07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="体育直播",体育直播-7
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive07
 #EXTINF:-1 tvg-id="TY08" tvg-name="TY08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="体育直播",体育直播-8
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive08
 #EXTINF:-1 tvg-id="TY09" tvg-name="TY09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="体育直播",体育直播-9
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive09
 #EXTINF:-1 tvg-id="TY10" tvg-name="TY10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="体育直播",体育直播-10
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=Slive10
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV1.png" group-title="V4线路",CCTV-1综合
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv01zh
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv01zh
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV2.png" group-title="V4线路",CCTV-2经济
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv02jj
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv02jj
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV3.png" group-title="V6线路",CCTV-3综艺(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv03zy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv03zy
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV4.png" group-title="V4线路",CCTV-4国际
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv04zw
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv04zw
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5+" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV5.png" group-title="V6线路",CCTV-5体育(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv05ty
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv05ty
 
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV6.png" group-title="V6线路",CCTV-6电影(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv06dy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv06dy
 
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV7.png" group-title="V4线路",CCTV-7军事
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv07js
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv07js
 
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV8.png" group-title="V6线路",CCTV-8电视剧(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv08dsj
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv08dsj
 
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV9.png" group-title="V4线路",CCTV-9记录
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv09jl
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv09jl
 
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV10.png" group-title="V4线路",CCTV-10科教
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv10jy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv10jy
 
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV11.png" group-title="V4线路",CCTV-11戏曲
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv11xq
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv11xq
 
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV12.png" group-title="V4线路",CCTV-12社法
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv12sf
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv12sf
 
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV13.png" group-title="V6线路",CCTV-13新闻(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv13xw
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv13xw
 
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV14.png" group-title="V4线路",CCTV-14少儿
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv14se
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv14se
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV15.png" group-title="V4线路",CCTV-15音乐
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv15yy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv15yy
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV16.png" group-title="V6线路",CCTV-16奥运(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv16ay
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv16ay
 
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV17.png" group-title="V4线路",CCTV-17农业
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv17ny
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv17ny
 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CCTV4K.png" group-title="V6线路",CCTV-4K(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv4k
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=cctv4k
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CHC-GQDY.png" group-title="V6线路",CHC高清电影(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcgqdy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=chcgqdy
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CHC-DZDY.png" group-title="V6线路",CHC动作电影(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcdzdy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=chcdzdy
 
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/CHC-JTYY.png" group-title="V6线路",CHC家庭影院(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=chcjtyy
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=chcjtyy
 
 
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-BJ.png" group-title="V6线路",北京卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsbeijing
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsbeijing
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-DF.png" group-title="V6线路",东方卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsdongfang
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsdongfang
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HN.png" group-title="V6线路",湖南卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshunan
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wshunan
 
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-JS.png" group-title="V6线路",江苏卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsjiangsu
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsjiangsu
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-ZJ.png" group-title="V6线路",浙江卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wszhejiang
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wszhejiang
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-GD.png" group-title="V6线路",广东卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguangdong
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsguangdong
 
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-SZ.png" group-title="V6线路",深圳卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsshenzhen
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsshenzhen
 
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-SC.png" group-title="V6线路",四川卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wssichuan
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wssichuan
 
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HENAN.png" group-title="V6线路",河南卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshenan
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wshenan
 
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-SD.png" group-title="V6线路",山东卫视(IPV6可看)
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsshandong
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsshandong
 
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-AH.png" group-title="V4线路",安徽卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsanhui
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsanhui
 
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-LN.png" group-title="V4线路",辽宁卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsliaoning
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsliaoning
 
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HUBEI.png" group-title="V4线路",湖北卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshubei
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wshubei
 
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HLJ.png" group-title="V4线路",黑龙江卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsheilongjiang
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsheilongjiang
 
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HEBEI.png" group-title="V4线路",河北卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshebei
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wshebei
 
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-DN.png" group-title="V4线路",东南卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsdongnan
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsdongnan
 
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-TJ.png" group-title="V4线路",天津卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wstianjing
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wstianjing
 
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-JX.png" group-title="V4线路",江西卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsjiangxi
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsjiangxi
 
 #EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-GZ.png" group-title="V4线路",贵州卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguizhou
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsguizhou
 
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-HAINAN.png" group-title="V4线路",海南卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshainan
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wshainan
 
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-CQ2024.png" group-title="V4线路",重庆卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wschongqing
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wschongqing
 
 #EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/WS-GX.png" group-title="V4线路",广西卫视
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguangxi
-
-
-
-
-
-
-
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test0818sichuan&id=wsguangxi
